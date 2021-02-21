@@ -1,2 +1,3 @@
 # Real_time_Face_mask_detection
-Real time face mask detection project using OpenCV  &amp; Transfer learning.
+
+<img src="https://github.com/vishvpatel-97/Real_time_Face_mask_detection/blob/main/python-project-real-time-face-mask-detection.jpg" width=500, height=400>
